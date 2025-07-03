@@ -46,15 +46,15 @@ The goal of this project is to explore a dataset using Python libraries and extr
   ```bash
   cd your-repo
  ```
-3.**Install the required Python packages:**
+3. **Install the required Python packages:**
   ```bash
   pip install pandas numpy matplotlib seaborn
  ```
-4.**Launch Jupyter Notebook:**
+4. **Launch Jupyter Notebook:**
   ```bash
   jupyter notebook
  ```
-5.**Open `project2.ipynb` and run the cells to explore the data.**
+5. **Open `project2.ipynb` and run the cells to explore the data.**
 
 ---
 ## 📈 Features and Analysis Included
