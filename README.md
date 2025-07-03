@@ -25,13 +25,14 @@ The goal of this project is to explore a dataset using Python libraries and extr
 - **seaborn**
 
 ---
+## 📁 Project Structure
+```
+📦 project-root/
+ ┣ 📄 project2.ipynb                    # Main notebook
+ ┣ 📄 README.md                         # Project description
+ ┗ 📂 CLeaned_Students_Performance.csv  # dataset file
+```
 
-## 📂 Project Structure
-`project/`
-
-- `project1.ipynb`: Initial data exploration notebook
-- `project2.ipynb`: Additional analysis and visualizations
-- `README.md`: Project documentation
 
 ---
 
@@ -78,3 +79,11 @@ The goal of this project is to explore a dataset using Python libraries and extr
 
 ## 🙌 Acknowledgments
 This project is inspired by real-world data cleaning and visualization workflows often performed by analysts and data scientists.
+
+---
+## 📬 Contact
+For questions or collaborations:
+
+**Shilpa K C**  
+Data Science Intern  
+[LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
