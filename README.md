@@ -39,9 +39,9 @@ The goal of this project is to explore a dataset using Python libraries and extr
 ## 🚀 How to Run This Project
 
 1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   ```
+  ```bash
+  git clone https://github.com/yourusername/your-repo.git
+  ```
 2. **Navigate into the project folder:**
   ```bash
   cd your-repo
